@@ -1,4 +1,4 @@
-<h2 align="left">Assalamualykum I'm a Mostafiur Rahaman, from Bangladesh.</h2>
+<h2 align="left">Assalamualykum I'm a Mostafizur Rahaman, from Bangladesh.</h2>
 
 ###
 
