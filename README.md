@@ -303,36 +303,6 @@
 
 ---
 
-## 🎯 Current Focus
-
-```javascript
-const mostafizur = {
-    location: "Dhaka, Bangladesh",
-    education: "Computer Science & Engineering",
-    currentFocus: ["Full Stack Development", "AI/ML", "Medical Technology"],
-    technologies: {
-        frontEnd: ["React", "Next.js", "JavaScript", "HTML", "CSS", "Tailwind"],
-        backEnd: ["Node.js", "Spring Boot", "Express.js"],
-        databases: ["MySQL", "MongoDB", "Firebase"],
-        tools: ["Git", "Docker", "VS Code", "IntelliJ IDEA"]
-    },
-    architecture: ["Microservices", "Event-Driven", "REST APIs"],
-    currentProject: "MediLens - AI-powered Medical Image Analysis Platform",
-    funFact: "I debug code faster than I can debug my life! 😄"
-};
-```
-
----
-
-## 🎨 Random Dev Quote
-
-<div align="center">
-
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-</div>
-
----
 
 ## 👀 Profile Views
 
