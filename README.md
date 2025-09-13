@@ -303,7 +303,7 @@
 
 <div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=mdmostafizurrahaman&style=for-the-badge&color=brightgreen)
+<img src="https://komarev.com/ghpvc/?username=mdmostafizurrahaman&style=for-the-badge&color=brightgreen&label=VISITORS" alt="Profile Views" width="420" height="80" />
 
 </div>
 
@@ -315,4 +315,5 @@
 
 **⭐ From [MdMostafizurRahaman](https://github.com/mdmostafizurrahaman) | Let's build something amazing together! 🚀**
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&animation=fadeIn" />
 </div>
