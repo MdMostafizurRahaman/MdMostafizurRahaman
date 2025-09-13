@@ -10,7 +10,7 @@
 
 ### 👨‍💻 About Me
 
-- 🎓 **Computer Science Student** at Dhaka University (IIT)
+- 🎓 **BSc in Software Engineering** at Dhaka University (IIT)
 - 🌱 **Currently Learning:** Advanced JavaScript, React.js, Node.js, AI/ML
 - 💼 **Working on:** Medical Image Analysis (MediLens Project)
 - 🎯 **Goal:** Becoming a Full-Stack Developer & AI Engineer
