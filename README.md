@@ -1,12 +1,11 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Md%20Mostafizur%20Rahaman&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Software%20Engineer%20%7C%20Full%20Stack%20Developer%20%7C%20Problem%20Solver&descAlignY=55&descSize=16" />
 </div>
-
-<div align="center">
   
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=36BCF7&background=0D111700&center=true&vCenter=true&multiline=true&width=900&height=150&lines=🌟+Assalamualaikum!+Welcome+to+my+Digital+Universe;🎓+BSc+Software+Engineering+%7C+University+of+Dhaka;💻+Full+Stack+Developer+%26+Competitive+Programmer;🏆+600%2B+Problems+Solved+%7C+50%2B+Contests+Participated;🚀+Building+AI-Powered+Healthcare+Solutions;💡+Always+Learning%2C+Always+Growing!)](https://git.io/typing-svg)
-
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Md%20Mostafizur%20Rahaman&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Software%20Engineer%20%7C%20Full%20Stack%20Developer%20%7C%20Problem%20Solver&descAlignY=55&descSize=16" />
 </div>
+
 
 <div align="center">
   
