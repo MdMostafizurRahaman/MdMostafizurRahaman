@@ -143,10 +143,47 @@
 
 <div align="center">
 
-[![MediLens](https://github-readme-stats.vercel.app/api/pin/?username=mdmostafizurrahaman&repo=MediLens&theme=radical)](https://github.com/mdmostafizurrahaman/MediLens)
-[![Policy Tracker](https://github-readme-stats.vercel.app/api/pin/?username=mdmostafizurrahaman&repo=policy-tracker&theme=radical)](https://github.com/mdmostafizurrahaman/policy-tracker)
+### 🏥 Healthcare & AI Solutions
 
+<table>
+<tr>
+<td width="50%">
+
+<h3 align="center">🩺 MediLens</h3>
+<div align="center">  
+<a href="#" target="_blank"><img style="margin: 10px" src="https://img.shields.io/badge/AI%20Healthcare%20Platform-FF6B6B?style=for-the-badge" alt="MediLens" /></a>  
 </div>
+
+**AI-Powered Medical Image Analysis Platform**
+- 🔍 OCR-based prescription analysis
+- 🤖 AI-driven diagnosis assistance using AWS Bedrock
+- 📊 Real-time clinical workflows
+- 👨‍⚕️ Doctor & patient management system
+- 💬 Real-time chat functionality
+- ☁️ Cloud deployment on Render
+
+**Tech Stack:** Spring Boot, Next.js, React, PostCSS, AWS Bedrock, Render
+
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)](#)
+[![GitHub](https://img.shields.io/badge/View%20Code-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mdmostafizurrahaman/MediLens)
+
+</td>
+<td width="50%">
+
+<h3 align="center">📊 Policy Tracker</h3>
+<div align="center">  
+<a href="https://policy-tracker-f.onrender.com" target="_blank"><img style="margin: 10px" src="https://img.shields.io/badge/Government%20Analytics-4ECDC4?style=for-the-badge" alt="Policy Tracker" /></a>  
+</div>
+
+**Global Policy Management System**
+- 🌍 Interactive world maps with ReactGlobe
+- 📈 Real-time policy comparison dashboard
+- 🤖 AI-powered policy analysis
+- 🎨 Color-coded country visualization
+- ☁️ AWS deployment with DynamoDB
+- ⚡ Fast API backend
+
+**Tech Stack:** Next.js, FastAPI, AWS, ReactGlobe, DynamoDB, Render
 
 ---
 
