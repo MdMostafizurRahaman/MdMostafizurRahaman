@@ -238,6 +238,58 @@
 </tr>
 </table>
 
+### 🏢 Enterprise & Academic Solutions
+
+<table>
+<tr>
+<td width="50%">
+
+<h3 align="center">🎓 IPOS - Internship Portal</h3>
+<div align="center">  
+<img style="margin: 10px" src="https://img.shields.io/badge/University%20Portal-3498DB?style=for-the-badge" alt="IPOS" />
+</div>
+
+**IIT Student Internship Management System**
+- 🏢 Comprehensive company listings
+- 🔍 Advanced skill-based filtering
+- 📄 CV upload & automated management
+- ✉️ Automated email notification system
+- 📋 HR letter generation
+- 👥 University of Dhaka integration
+
+**Tech Stack:** MERN Stack, Automated Email System
+
+[![GitHub](https://img.shields.io/badge/View%20Code-100000?style=for-the-badge&logo=github&logoColor=white)](#)
+
+</td>
+<td width="50%">
+
+<h3 align="center">🔐 Secure Chat Server</h3>
+<div align="center">  
+<img style="margin: 10px" src="https://img.shields.io/badge/Network%20Security-8E44AD?style=for-the-badge" alt="Chat Server" />
+</div>
+
+**Enterprise-Grade Secure Communication**
+- 🔒 AES encryption implementation
+- 👥 Group & individual messaging
+- 🔑 Multi-layer authentication system
+- ⚡ Real-time encrypted data transfer
+- 🛡️ Advanced security protocols
+- 🚫 Retry-limited access controls
+
+**Tech Stack:** C++, Network Programming, Cryptography, AES
+
+[![GitHub](https://img.shields.io/badge/View%20Code-100000?style=for-the-badge&logo=github&logoColor=white)](#)
+
+</td>
+</tr>
+</table>
+
+</div>
+
+---
+
+
 
 ---
 
