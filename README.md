@@ -151,7 +151,7 @@
 
 <h3 align="center">🩺 MediLens</h3>
 <div align="center">  
-<a href="#" target="_blank"><img style="margin: 10px" src="https://img.shields.io/badge/AI%20Healthcare%20Platform-FF6B6B?style=for-the-badge" alt="MediLens" /></a>  
+<a href="https://medilens-frontend.onrender.com/" target="_blank"><img style="margin: 10px" src="https://img.shields.io/badge/AI%20Healthcare%20Platform-FF6B6B?style=for-the-badge" alt="MediLens" /></a>  
 </div>
 
 **AI-Powered Medical Image Analysis Platform**
@@ -185,6 +185,58 @@
 
 **Tech Stack:** Next.js, FastAPI, AWS, ReactGlobe, DynamoDB, Render
 
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)](https://policy-tracker-f.onrender.com)
+[![GitHub](https://img.shields.io/badge/View%20Code-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mdmostafizurrahaman/policy-tracker)
+
+</td>
+</tr>
+</table>
+
+### 🎮 Game Development & AI Projects
+
+<table>
+<tr>
+<td width="50%">
+
+<h3 align="center">🎯 Gomoku Game AI</h3>
+<div align="center">  
+<img style="margin: 10px" src="https://img.shields.io/badge/Game%20AI-9B59B6?style=for-the-badge" alt="Gomoku AI" />
+</div>
+
+**Intelligent Board Game with Advanced AI**
+- 🧠 Smart AI with optimal move calculation
+- 🎲 10x10 board with overline prevention
+- ⚡ Real-time player vs AI gameplay
+- 🎨 Responsive React interface
+- 📊 Move analysis & strategy optimization
+
+**Tech Stack:** React.js, Advanced AI Algorithms
+
+[![GitHub](https://img.shields.io/badge/View%20Code-100000?style=for-the-badge&logo=github&logoColor=white)](#)
+
+</td>
+<td width="50%">
+
+<h3 align="center">💬 Stack Overflow Clone</h3>
+<div align="center">  
+<img style="margin: 10px" src="https://img.shields.io/badge/Community%20Platform-E67E22?style=for-the-badge" alt="Stack Overflow" />
+</div>
+
+**Full-Stack Q&A Community Platform**
+- 👥 Complete user registration & authentication
+- 📝 Advanced post management system
+- 🔐 JWT security implementation
+- 📁 MinIO integration for code snippets
+- 🔔 Real-time notification system
+- 🌐 Distributed architecture setup
+
+**Tech Stack:** MERN (MongoDB, Express, React, Node.js), JWT, MinIO
+
+[![GitHub](https://img.shields.io/badge/View%20Code-100000?style=for-the-badge&logo=github&logoColor=white)](#)
+
+</td>
+</tr>
+</table>
 ---
 
 ## 📈 Activity Graph
