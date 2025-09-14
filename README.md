@@ -138,7 +138,7 @@
 
 <div align="center">
 
-### AI Solutions
+### 🤖 AI Solutions
 
 <table>
 <tr>
