@@ -15,7 +15,7 @@
 
 - 🎓 **BSc in Software Engineering** at Dhaka University (IIT)
 - 🌱 **Currently Learning:** Advanced JavaScript, React.js, Node.js, AI/ML
-<!-- - 💼 **Working on:** Medical Image Analysis (MediLens Project) -->
+- 💼 **Working on:** Medical Image Analysis (MediLens Project)
 - 🎯 **Goal:** Becoming a Full-Stack Developer & AI Engineer
 - 📫 **Reach me:** [bsse1320@iit.du.ac.bd](mailto:bsse1320@iit.du.ac.bd)
 - ⚡ **Fun fact:** I love solving complex problems and building innovative solutions!
@@ -142,7 +142,7 @@
 
 <table>
 <tr>
-<!-- <td width="50%">
+<td width="50%">
 
 <h3 align="center">🩺 MediLens</h3>
 <div align="center">  
@@ -162,8 +162,8 @@
 [![Live Demo](https://img.shields.io/badge/Live%20Demo-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)](#)
 [![GitHub](https://img.shields.io/badge/View%20Code-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mdmostafizurrahaman/MediLens)
 
-</td> -->
-<td width="100%">
+</td>
+<td width="50%">
 
 <h3 align="center">📊 Policy Tracker</h3>
 <div align="center">  
